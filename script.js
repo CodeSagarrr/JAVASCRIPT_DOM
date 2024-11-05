@@ -37,3 +37,4 @@ function copyText(){
 
 btn1.addEventListener("click", getColor1)
 btn2.addEventListener("click", getColor2)
+showText.addEventListener('click', copyText)

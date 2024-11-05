@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(to right , #ffffff , #000000 );
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colorText{
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+}
+.showColorText {
+    font-size: 20px;
+    color: #000000;
+    cursor: pointer;
+}
